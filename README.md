@@ -1,5 +1,5 @@
 # TaskBar
-Features:
+#Features:
 <br>
 User registration and login functionality
 Add, edit, and delete tasks
